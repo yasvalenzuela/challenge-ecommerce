@@ -1,4 +1,4 @@
-# Falabella Frontend Test
+# Frontend Test
 
 - [Minimum requirements](#minimum-requirements)
 - [Running the Application](#running-the-application)
